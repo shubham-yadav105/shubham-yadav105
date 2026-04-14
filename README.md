@@ -53,15 +53,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-yadav105&theme=tokyonight" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-yadav105&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
-
 ---
 
 ## 🔥 Featured Projects
