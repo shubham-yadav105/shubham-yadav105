@@ -14,7 +14,7 @@
 * 🌱 I’m currently learning MERN Stack, MongoDB and DevOps
 * 👨‍💻 All of my projects are available on my GitHub
 * 💬 Ask me about Python, Django, PHP, Laravel, MongoDB, HTML, CSS, JavaScript
-* 📫 How to reach me: **your-email@gmail.com**
+* 📫 How to reach me: shubhu6717@gmail.com
 * ⚡ Fun fact: I love building useful web apps
 
 ---
