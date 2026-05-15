@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shubham Yadav
 
-### Web Developer | Python | Django | PHP | Laravel | MERN
+### Web Developer | NodeJs | PHP | Laravel | Python | Django
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Developer;Django+Developer;PHP+Developer;Laravel+Developer;MERN+Stack+Learner;MongoDB+Enthusiast;Open+Source+Enthusiast" />
@@ -65,8 +65,3 @@
 
 ---
 
-## 👀 Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shubham-yadav105&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
